@@ -1,0 +1,15 @@
+# compiled C programs
+translation
+scaling
+house
+car
+shapes
+*.o
+*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
